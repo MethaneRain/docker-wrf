@@ -2,8 +2,6 @@
 
 This Docker image is meant to be a basic test of my Docker building abilities as well as my replication of <a href="https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php">NCAR's MMM WRF basic build</a> on a fresh Linux CentOS environment. 
 
-As a side-effect, one learns how to compile the WRF and WPS model in going through this Docker Container
-
 - - -
 
 To begin, start by changing to the ```/home/WRF/Build_WRF/LIBRARIES``` directory, which is where all the WRF library files are located.
