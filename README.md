@@ -332,6 +332,6 @@ If you have WRF-Python library installed or other Python scripts/notebooks deali
 
 <a href="https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php">MMM Build Tutorial Home</a>
 
-<a href=""></a>
+<a href="http://www2.mmm.ucar.edu/wrf/users/download/get_source.html"></a>
 
 <a href="Static Geography Data">Static Geography Data</a>
