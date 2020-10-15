@@ -1,4 +1,4 @@
-<h2><font color="blue">Welcome to my very basic WRF Docker build!</font></h2>
+<h2>Welcome to my very basic WRF Docker build!</h2>
 
 This Docker image is meant to be a basic test of my Docker building abilities as well as my replication of <a href="https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php">NCAR's MMM WRF basic build</a> on a fresh Linux CentOS environment. 
 
