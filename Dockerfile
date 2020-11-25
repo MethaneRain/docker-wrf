@@ -1,5 +1,5 @@
 FROM centos:latest
-#LABEL Jessica Kelly <jkelly@urban.org>
+#LABEL Justin Richling <justin.richling@gmail.com>
 RUN yum update -y
 RUN yum install -y gcc-gfortran gdb make
 #RUN yum install -y gcc-gfortran gdb make && perl gdb make &&  && &&  &&  &&  &&  &&  &&  && 
